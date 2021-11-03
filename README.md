@@ -17,4 +17,7 @@
 
 ## الـقـناة ##
    <a href="https://t.me/a_bdui62"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
- - 
+ 
+## الكروب المساعدة ##
+   <a href="https://t.me/a_bdui60"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p> 
+ -
